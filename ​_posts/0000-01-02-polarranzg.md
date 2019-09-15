@@ -1,1 +1,6 @@
----layout: slidetitle: “Welcome to our second slide!”---Your testUse the left arrow to go back!
+---
+layout: slide
+title: “Welcome to our second slide!”
+---
+Your test2
+Use the left arrow to go back!
